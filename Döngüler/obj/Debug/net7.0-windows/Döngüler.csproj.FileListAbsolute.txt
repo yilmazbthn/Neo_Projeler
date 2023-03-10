@@ -1,0 +1,17 @@
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\bin\Debug\net7.0-windows\Döngüler.exe
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\bin\Debug\net7.0-windows\Döngüler.deps.json
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\bin\Debug\net7.0-windows\Döngüler.runtimeconfig.json
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\bin\Debug\net7.0-windows\Döngüler.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\bin\Debug\net7.0-windows\Döngüler.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\obj\Debug\net7.0-windows\Döngüler.csproj.AssemblyReference.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\obj\Debug\net7.0-windows\Döngüler.Form1.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\obj\Debug\net7.0-windows\Döngüler.csproj.GenerateResource.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\obj\Debug\net7.0-windows\Döngüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\obj\Debug\net7.0-windows\Döngüler.AssemblyInfoInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\obj\Debug\net7.0-windows\Döngüler.AssemblyInfo.cs
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\obj\Debug\net7.0-windows\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\obj\Debug\net7.0-windows\Döngüler.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\obj\Debug\net7.0-windows\refint\Döngüler.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\obj\Debug\net7.0-windows\Döngüler.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\obj\Debug\net7.0-windows\Döngüler.genruntimeconfig.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Döngüler\obj\Debug\net7.0-windows\ref\Döngüler.dll

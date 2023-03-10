@@ -1,0 +1,17 @@
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\bin\Debug\net7.0-windows\İnt.exe
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\bin\Debug\net7.0-windows\İnt.deps.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\bin\Debug\net7.0-windows\İnt.runtimeconfig.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\bin\Debug\net7.0-windows\İnt.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\bin\Debug\net7.0-windows\İnt.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\obj\Debug\net7.0-windows\İnt.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\obj\Debug\net7.0-windows\İnt.Form1.resources
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\obj\Debug\net7.0-windows\İnt.csproj.GenerateResource.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\obj\Debug\net7.0-windows\İnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\obj\Debug\net7.0-windows\İnt.AssemblyInfoInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\obj\Debug\net7.0-windows\İnt.AssemblyInfo.cs
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\obj\Debug\net7.0-windows\İnt.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\obj\Debug\net7.0-windows\İnt.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\obj\Debug\net7.0-windows\refint\İnt.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\obj\Debug\net7.0-windows\İnt.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\obj\Debug\net7.0-windows\İnt.genruntimeconfig.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\İnt\obj\Debug\net7.0-windows\ref\İnt.dll

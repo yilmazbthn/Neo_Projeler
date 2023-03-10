@@ -1,0 +1,18 @@
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\bin\Debug\net7.0-windows\Not Ortalama.exe
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\bin\Debug\net7.0-windows\Not Ortalama.deps.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\bin\Debug\net7.0-windows\Not Ortalama.runtimeconfig.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\bin\Debug\net7.0-windows\Not Ortalama.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\bin\Debug\net7.0-windows\Not Ortalama.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\obj\Debug\net7.0-windows\Not Ortalama.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\obj\Debug\net7.0-windows\Not_Ortalama.Form1.resources
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\obj\Debug\net7.0-windows\Not_Ortalama.Properties.Resources.resources
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\obj\Debug\net7.0-windows\Not Ortalama.csproj.GenerateResource.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\obj\Debug\net7.0-windows\Not Ortalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\obj\Debug\net7.0-windows\Not Ortalama.AssemblyInfoInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\obj\Debug\net7.0-windows\Not Ortalama.AssemblyInfo.cs
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\obj\Debug\net7.0-windows\Not Ortalama.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\obj\Debug\net7.0-windows\Not Ortalama.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\obj\Debug\net7.0-windows\refint\Not Ortalama.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\obj\Debug\net7.0-windows\Not Ortalama.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\obj\Debug\net7.0-windows\Not Ortalama.genruntimeconfig.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Not Ortalama\obj\Debug\net7.0-windows\ref\Not Ortalama.dll

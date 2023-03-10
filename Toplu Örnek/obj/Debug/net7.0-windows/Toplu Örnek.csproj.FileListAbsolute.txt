@@ -1,0 +1,17 @@
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\obj\Debug\net7.0-windows\Toplu Örnek.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\obj\Debug\net7.0-windows\Toplu_Örnek.Form1.resources
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\obj\Debug\net7.0-windows\Toplu Örnek.csproj.GenerateResource.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\obj\Debug\net7.0-windows\Toplu Örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\obj\Debug\net7.0-windows\Toplu Örnek.AssemblyInfoInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\obj\Debug\net7.0-windows\Toplu Örnek.AssemblyInfo.cs
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\obj\Debug\net7.0-windows\Toplu Örnek.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\bin\Debug\net7.0-windows\Toplu Örnek.exe
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\bin\Debug\net7.0-windows\Toplu Örnek.deps.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\bin\Debug\net7.0-windows\Toplu Örnek.runtimeconfig.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\bin\Debug\net7.0-windows\Toplu Örnek.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\bin\Debug\net7.0-windows\Toplu Örnek.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\obj\Debug\net7.0-windows\Toplu Örnek.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\obj\Debug\net7.0-windows\refint\Toplu Örnek.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\obj\Debug\net7.0-windows\Toplu Örnek.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\obj\Debug\net7.0-windows\Toplu Örnek.genruntimeconfig.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Toplu Örnek\obj\Debug\net7.0-windows\ref\Toplu Örnek.dll

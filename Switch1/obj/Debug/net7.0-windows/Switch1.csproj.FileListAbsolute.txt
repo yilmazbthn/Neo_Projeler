@@ -1,0 +1,17 @@
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\bin\Debug\net7.0-windows\Switch1.exe
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\bin\Debug\net7.0-windows\Switch1.deps.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\bin\Debug\net7.0-windows\Switch1.runtimeconfig.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\bin\Debug\net7.0-windows\Switch1.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\bin\Debug\net7.0-windows\Switch1.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\obj\Debug\net7.0-windows\Switch1.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\obj\Debug\net7.0-windows\Switch1.Form1.resources
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\obj\Debug\net7.0-windows\Switch1.csproj.GenerateResource.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\obj\Debug\net7.0-windows\Switch1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\obj\Debug\net7.0-windows\Switch1.AssemblyInfoInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\obj\Debug\net7.0-windows\Switch1.AssemblyInfo.cs
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\obj\Debug\net7.0-windows\Switch1.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\obj\Debug\net7.0-windows\Switch1.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\obj\Debug\net7.0-windows\refint\Switch1.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\obj\Debug\net7.0-windows\Switch1.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\obj\Debug\net7.0-windows\Switch1.genruntimeconfig.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Switch1\obj\Debug\net7.0-windows\ref\Switch1.dll

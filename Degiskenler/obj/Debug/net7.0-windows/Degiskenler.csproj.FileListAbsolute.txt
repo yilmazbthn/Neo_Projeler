@@ -1,0 +1,17 @@
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\obj\Debug\net7.0-windows\Degiskenler.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\obj\Debug\net7.0-windows\Degiskenler.Form1.resources
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\obj\Debug\net7.0-windows\Degiskenler.csproj.GenerateResource.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\obj\Debug\net7.0-windows\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\obj\Debug\net7.0-windows\Degiskenler.AssemblyInfoInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\obj\Debug\net7.0-windows\Degiskenler.AssemblyInfo.cs
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\obj\Debug\net7.0-windows\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\bin\Debug\net7.0-windows\Degiskenler.exe
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\bin\Debug\net7.0-windows\Degiskenler.deps.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\bin\Debug\net7.0-windows\Degiskenler.runtimeconfig.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\bin\Debug\net7.0-windows\Degiskenler.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\bin\Debug\net7.0-windows\Degiskenler.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\obj\Debug\net7.0-windows\Degiskenler.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\obj\Debug\net7.0-windows\refint\Degiskenler.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\obj\Debug\net7.0-windows\Degiskenler.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\obj\Debug\net7.0-windows\Degiskenler.genruntimeconfig.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Degiskenler\obj\Debug\net7.0-windows\ref\Degiskenler.dll

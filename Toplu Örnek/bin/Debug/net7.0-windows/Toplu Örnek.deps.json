@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Toplu Örnek/1.0.0": {
+        "runtime": {
+          "Toplu Örnek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Toplu Örnek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

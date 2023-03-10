@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3hQPheoxjJm9TmSQOSLJPTCCesF2AovYDg76xTQXaTAxr5p8vdpzRE+eROHO4bsMgQqcIIT7bc6mLjOqFUY+KQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Sinema_fragman\\Sinema_fragman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.web.webview2\\1.0.1587.40\\microsoft.web.webview2.1.0.1587.40.nupkg.sha512",
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.2\\microsoft.netcore.app.host.win-x64.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

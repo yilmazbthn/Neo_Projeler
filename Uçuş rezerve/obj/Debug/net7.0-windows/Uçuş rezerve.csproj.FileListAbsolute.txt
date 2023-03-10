@@ -1,0 +1,17 @@
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\bin\Debug\net7.0-windows\Uçuş rezerve.exe
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\bin\Debug\net7.0-windows\Uçuş rezerve.deps.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\bin\Debug\net7.0-windows\Uçuş rezerve.runtimeconfig.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\bin\Debug\net7.0-windows\Uçuş rezerve.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\bin\Debug\net7.0-windows\Uçuş rezerve.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\obj\Debug\net7.0-windows\Uçuş rezerve.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\obj\Debug\net7.0-windows\Uçuş_rezerve.Form1.resources
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\obj\Debug\net7.0-windows\Uçuş rezerve.csproj.GenerateResource.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\obj\Debug\net7.0-windows\Uçuş rezerve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\obj\Debug\net7.0-windows\Uçuş rezerve.AssemblyInfoInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\obj\Debug\net7.0-windows\Uçuş rezerve.AssemblyInfo.cs
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\obj\Debug\net7.0-windows\Uçuş rezerve.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\obj\Debug\net7.0-windows\Uçuş rezerve.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\obj\Debug\net7.0-windows\refint\Uçuş rezerve.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\obj\Debug\net7.0-windows\Uçuş rezerve.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\obj\Debug\net7.0-windows\Uçuş rezerve.genruntimeconfig.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Uçuş rezerve\obj\Debug\net7.0-windows\ref\Uçuş rezerve.dll

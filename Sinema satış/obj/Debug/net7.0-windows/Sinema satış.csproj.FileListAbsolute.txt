@@ -1,0 +1,34 @@
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\bin\Debug\net7.0-windows\Sinema satış.exe
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\bin\Debug\net7.0-windows\Sinema satış.deps.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\bin\Debug\net7.0-windows\Sinema satış.runtimeconfig.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\bin\Debug\net7.0-windows\Sinema satış.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\bin\Debug\net7.0-windows\Sinema satış.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema_satış.Form1.resources
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.csproj.GenerateResource.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.AssemblyInfoInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.AssemblyInfo.cs
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\refint\Sinema satış.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.genruntimeconfig.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\ref\Sinema satış.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\bin\Debug\net7.0-windows\Sinema satış.exe
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\bin\Debug\net7.0-windows\Sinema satış.deps.json
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\bin\Debug\net7.0-windows\Sinema satış.runtimeconfig.json
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\bin\Debug\net7.0-windows\Sinema satış.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\bin\Debug\net7.0-windows\Sinema satış.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.csproj.AssemblyReference.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema_satış.Form1.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.csproj.GenerateResource.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.AssemblyInfoInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.AssemblyInfo.cs
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\refint\Sinema satış.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\Sinema satış.genruntimeconfig.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema satış\obj\Debug\net7.0-windows\ref\Sinema satış.dll

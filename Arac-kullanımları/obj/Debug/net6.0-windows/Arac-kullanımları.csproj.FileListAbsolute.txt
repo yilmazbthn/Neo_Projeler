@@ -1,0 +1,17 @@
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\bin\Debug\net6.0-windows\Arac-kullanımları.exe
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\bin\Debug\net6.0-windows\Arac-kullanımları.deps.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\bin\Debug\net6.0-windows\Arac-kullanımları.runtimeconfig.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\bin\Debug\net6.0-windows\Arac-kullanımları.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\bin\Debug\net6.0-windows\Arac-kullanımları.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\obj\Debug\net6.0-windows\Arac-kullanımları.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\obj\Debug\net6.0-windows\Arac_kullanımları.Form1.resources
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\obj\Debug\net6.0-windows\Arac-kullanımları.csproj.GenerateResource.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\obj\Debug\net6.0-windows\Arac-kullanımları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\obj\Debug\net6.0-windows\Arac-kullanımları.AssemblyInfoInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\obj\Debug\net6.0-windows\Arac-kullanımları.AssemblyInfo.cs
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\obj\Debug\net6.0-windows\Arac-kullanımları.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\obj\Debug\net6.0-windows\Arac-kullanımları.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\obj\Debug\net6.0-windows\refint\Arac-kullanımları.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\obj\Debug\net6.0-windows\Arac-kullanımları.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\obj\Debug\net6.0-windows\Arac-kullanımları.genruntimeconfig.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Arac-kullanımları\obj\Debug\net6.0-windows\ref\Arac-kullanımları.dll

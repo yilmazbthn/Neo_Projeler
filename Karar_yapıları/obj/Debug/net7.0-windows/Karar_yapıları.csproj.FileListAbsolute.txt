@@ -1,0 +1,17 @@
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\bin\Debug\net7.0-windows\Karar_yapıları.exe
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\bin\Debug\net7.0-windows\Karar_yapıları.deps.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\bin\Debug\net7.0-windows\Karar_yapıları.runtimeconfig.json
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\bin\Debug\net7.0-windows\Karar_yapıları.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\bin\Debug\net7.0-windows\Karar_yapıları.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\obj\Debug\net7.0-windows\Karar_yapıları.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\obj\Debug\net7.0-windows\Karar_yapıları.Form1.resources
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\obj\Debug\net7.0-windows\Karar_yapıları.csproj.GenerateResource.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\obj\Debug\net7.0-windows\Karar_yapıları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\obj\Debug\net7.0-windows\Karar_yapıları.AssemblyInfoInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\obj\Debug\net7.0-windows\Karar_yapıları.AssemblyInfo.cs
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\obj\Debug\net7.0-windows\Karar_yapıları.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\obj\Debug\net7.0-windows\Karar_yapıları.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\obj\Debug\net7.0-windows\refint\Karar_yapıları.dll
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\obj\Debug\net7.0-windows\Karar_yapıları.pdb
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\obj\Debug\net7.0-windows\Karar_yapıları.genruntimeconfig.cache
+C:\Users\yilma\OneDrive\Masaüstü\udemy\aracgerec\Karar_yapıları\obj\Debug\net7.0-windows\ref\Karar_yapıları.dll
