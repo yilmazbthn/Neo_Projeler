@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3hQPheoxjJm9TmSQOSLJPTCCesF2AovYDg76xTQXaTAxr5p8vdpzRE+eROHO4bsMgQqcIIT7bc6mLjOqFUY+KQ==",
+  "dgSpecHash": "4BridNe9UWAFtUC9AjAjDu2iNkRIS8el/dWVxOL8BY4qaH5aGOAuGH8mw0p71NUMzkmZkIFJrajzCqDiI2QV8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Sinema_fragman\\Sinema_fragman.csproj",
+  "projectFilePath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Sinema_fragman\\Sinema_fragman.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yilma\\.nuget\\packages\\microsoft.web.webview2\\1.0.1587.40\\microsoft.web.webview2.1.0.1587.40.nupkg.sha512",
     "C:\\Users\\yilma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",

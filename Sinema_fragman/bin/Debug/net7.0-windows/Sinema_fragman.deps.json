@@ -12,6 +12,11 @@
         },
         "runtime": {
           "Sinema_fragman.dll": {}
+        },
+        "resources": {
+          "tr-TR/Sinema_fragman.resources.dll": {
+            "locale": "tr-TR"
+          }
         }
       },
       "Microsoft.Web.WebView2/1.0.1587.40": {

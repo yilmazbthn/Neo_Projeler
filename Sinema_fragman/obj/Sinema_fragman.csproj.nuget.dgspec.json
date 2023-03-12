@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Sinema_fragman\\Sinema_fragman.csproj": {}
+    "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Sinema_fragman\\Sinema_fragman.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Sinema_fragman\\Sinema_fragman.csproj": {
+    "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Sinema_fragman\\Sinema_fragman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Sinema_fragman\\Sinema_fragman.csproj",
+        "projectUniqueName": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Sinema_fragman\\Sinema_fragman.csproj",
         "projectName": "Sinema_fragman",
-        "projectPath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Sinema_fragman\\Sinema_fragman.csproj",
+        "projectPath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Sinema_fragman\\Sinema_fragman.csproj",
         "packagesPath": "C:\\Users\\yilma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Sinema_fragman\\obj\\",
+        "outputPath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Sinema_fragman\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yilma\\AppData\\Roaming\\NuGet\\NuGet.Config",

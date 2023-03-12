@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2S6ihrct08v18/q6SwPlAXjR8k4uDmhU2gUcEcJQegSd1TW31wuHCuj7882rFbkrmCVi8z7rdTiwxqnZEBTm3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Timer\\Timer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.2\\microsoft.netcore.app.host.win-x64.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

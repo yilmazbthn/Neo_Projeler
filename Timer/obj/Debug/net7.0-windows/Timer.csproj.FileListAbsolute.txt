@@ -1,0 +1,17 @@
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\bin\Debug\net7.0-windows\Timer.exe
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\bin\Debug\net7.0-windows\Timer.deps.json
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\bin\Debug\net7.0-windows\Timer.runtimeconfig.json
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\bin\Debug\net7.0-windows\Timer.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\bin\Debug\net7.0-windows\Timer.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\obj\Debug\net7.0-windows\Timer.csproj.AssemblyReference.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\obj\Debug\net7.0-windows\Timer.Form1.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\obj\Debug\net7.0-windows\Timer.csproj.GenerateResource.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\obj\Debug\net7.0-windows\Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\obj\Debug\net7.0-windows\Timer.AssemblyInfoInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\obj\Debug\net7.0-windows\Timer.AssemblyInfo.cs
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\obj\Debug\net7.0-windows\Timer.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\obj\Debug\net7.0-windows\Timer.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\obj\Debug\net7.0-windows\refint\Timer.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\obj\Debug\net7.0-windows\Timer.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\obj\Debug\net7.0-windows\Timer.genruntimeconfig.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Timer\obj\Debug\net7.0-windows\ref\Timer.dll

@@ -1,3 +1,19 @@
-2023/03/10-21:45:07.276 9b58 Reusing MANIFEST C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema_fragman\bin\Debug\net7.0-windows\Sinema_fragman.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2023/03/10-21:45:07.277 9b58 Recovering log #16
-2023/03/10-21:45:07.278 9b58 Reusing old log C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Sinema_fragman\bin\Debug\net7.0-windows\Sinema_fragman.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000016.log 
+2023/03/11-23:33:50.352 64d8 Reusing MANIFEST C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Sinema_fragman\bin\Debug\net7.0-windows\Sinema_fragman.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2023/03/11-23:33:50.354 64d8 Recovering log #16
+2023/03/11-23:33:50.355 64d8 Level-0 table #19: started
+2023/03/11-23:33:50.360 64d8 Level-0 table #19: 16725 bytes OK
+2023/03/11-23:33:50.360 64d8 Recovering log #19
+2023/03/11-23:33:50.360 64d8 Reusing old log C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Sinema_fragman\bin\Debug\net7.0-windows\Sinema_fragman.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000019.log 
+2023/03/11-23:33:50.364 64d8 Delete type=0 #16
+2023/03/11-23:33:50.365 b100 Compacting 4@0 + 1@1 files
+2023/03/11-23:33:50.380 b100 Generated table #20@0: 33 keys, 9834 bytes
+2023/03/11-23:33:50.380 b100 Compacted 4@0 + 1@1 files => 9834 bytes
+2023/03/11-23:33:50.382 b100 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/11-23:33:50.383 b100 Delete type=2 #8
+2023/03/11-23:33:50.383 b100 Delete type=2 #10
+2023/03/11-23:33:50.383 b100 Delete type=2 #14
+2023/03/11-23:33:50.383 b100 Delete type=2 #17
+2023/03/11-23:33:50.383 b100 Delete type=2 #19
+2023/03/11-23:34:01.246 b100 Level-0 table #22: started
+2023/03/11-23:34:01.251 b100 Level-0 table #22: 54350 bytes OK
+2023/03/11-23:34:01.254 b100 Delete type=0 #19
