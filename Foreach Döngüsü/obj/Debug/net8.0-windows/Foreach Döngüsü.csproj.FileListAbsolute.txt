@@ -1,0 +1,17 @@
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\bin\Debug\net8.0-windows\Foreach Döngüsü.exe
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\bin\Debug\net8.0-windows\Foreach Döngüsü.deps.json
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\bin\Debug\net8.0-windows\Foreach Döngüsü.runtimeconfig.json
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\bin\Debug\net8.0-windows\Foreach Döngüsü.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\bin\Debug\net8.0-windows\Foreach Döngüsü.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\obj\Debug\net8.0-windows\Foreach Döngüsü.csproj.AssemblyReference.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\obj\Debug\net8.0-windows\Foreach_Döngüsü.Form1.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\obj\Debug\net8.0-windows\Foreach Döngüsü.csproj.GenerateResource.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\obj\Debug\net8.0-windows\Foreach Döngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\obj\Debug\net8.0-windows\Foreach Döngüsü.AssemblyInfoInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\obj\Debug\net8.0-windows\Foreach Döngüsü.AssemblyInfo.cs
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\obj\Debug\net8.0-windows\Foreach Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\obj\Debug\net8.0-windows\Foreach Döngüsü.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\obj\Debug\net8.0-windows\refint\Foreach Döngüsü.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\obj\Debug\net8.0-windows\Foreach Döngüsü.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\obj\Debug\net8.0-windows\Foreach Döngüsü.genruntimeconfig.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Foreach Döngüsü\obj\Debug\net8.0-windows\ref\Foreach Döngüsü.dll

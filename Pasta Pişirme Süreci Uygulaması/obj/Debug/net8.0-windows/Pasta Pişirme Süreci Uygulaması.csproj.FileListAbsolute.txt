@@ -1,0 +1,17 @@
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreci Uygulaması.exe
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreci Uygulaması.deps.json
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreci Uygulaması.runtimeconfig.json
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreci Uygulaması.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\bin\Debug\net8.0-windows\Pasta Pişirme Süreci Uygulaması.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreci Uygulaması.csproj.AssemblyReference.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\obj\Debug\net8.0-windows\Pasta_Pişirme_Süreci_Uygulaması.Form1.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreci Uygulaması.csproj.GenerateResource.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreci Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreci Uygulaması.AssemblyInfoInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreci Uygulaması.AssemblyInfo.cs
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreci Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreci Uygulaması.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\obj\Debug\net8.0-windows\refint\Pasta Pişirme Süreci Uygulaması.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreci Uygulaması.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\obj\Debug\net8.0-windows\Pasta Pişirme Süreci Uygulaması.genruntimeconfig.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Pasta Pişirme Süreci Uygulaması\obj\Debug\net8.0-windows\ref\Pasta Pişirme Süreci Uygulaması.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pasta Pişirme Süreci Uygulaması/1.0.0": {
+        "runtime": {
+          "Pasta Pişirme Süreci Uygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pasta Pişirme Süreci Uygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

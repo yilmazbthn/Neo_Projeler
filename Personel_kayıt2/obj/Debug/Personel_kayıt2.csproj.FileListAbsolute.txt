@@ -1,0 +1,12 @@
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\bin\Debug\Personel_kayıt2.exe.config
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\bin\Debug\Personel_kayıt2.exe
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\bin\Debug\Personel_kayıt2.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.csproj.AssemblyReference.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.Form1.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.Properties.Resources.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.csproj.GenerateResource.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.exe
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.frmistatistik.resources

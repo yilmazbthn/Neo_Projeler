@@ -1,0 +1,17 @@
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\obj\Debug\net8.0-windows\Dizi_Elemanları.csproj.AssemblyReference.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\obj\Debug\net8.0-windows\Dizi_Elemanları.Form1.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\obj\Debug\net8.0-windows\Dizi_Elemanları.csproj.GenerateResource.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\obj\Debug\net8.0-windows\Dizi_Elemanları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\obj\Debug\net8.0-windows\Dizi_Elemanları.AssemblyInfoInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\obj\Debug\net8.0-windows\Dizi_Elemanları.AssemblyInfo.cs
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\obj\Debug\net8.0-windows\Dizi_Elemanları.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\bin\Debug\net8.0-windows\Dizi_Elemanları.exe
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\bin\Debug\net8.0-windows\Dizi_Elemanları.deps.json
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\bin\Debug\net8.0-windows\Dizi_Elemanları.runtimeconfig.json
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\bin\Debug\net8.0-windows\Dizi_Elemanları.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\bin\Debug\net8.0-windows\Dizi_Elemanları.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\obj\Debug\net8.0-windows\Dizi_Elemanları.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\obj\Debug\net8.0-windows\refint\Dizi_Elemanları.dll
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\obj\Debug\net8.0-windows\Dizi_Elemanları.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\obj\Debug\net8.0-windows\Dizi_Elemanları.genruntimeconfig.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Dizi_Elemanları\obj\Debug\net8.0-windows\ref\Dizi_Elemanları.dll
