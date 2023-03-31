@@ -1,0 +1,11 @@
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\open-save-folder\bin\Debug\open-save-folder.exe.config
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\open-save-folder\bin\Debug\open-save-folder.exe
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\open-save-folder\bin\Debug\open-save-folder.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\open-save-folder\obj\Debug\open-save-folder.csproj.AssemblyReference.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\open-save-folder\obj\Debug\open-save-folder.csproj.SuggestedBindingRedirects.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\open-save-folder\obj\Debug\open_save_folder.Form1.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\open-save-folder\obj\Debug\open_save_folder.Properties.Resources.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\open-save-folder\obj\Debug\open-save-folder.csproj.GenerateResource.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\open-save-folder\obj\Debug\open-save-folder.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\open-save-folder\obj\Debug\open-save-folder.exe
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\open-save-folder\obj\Debug\open-save-folder.pdb

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yilma\\OneDrive\\Masaüstü\\udemy\\aracgerec\\Degiskenler\\Degiskenler.csproj": {}
+    "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Degiskenler\\Degiskenler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yilma\\OneDrive\\Masaüstü\\udemy\\aracgerec\\Degiskenler\\Degiskenler.csproj": {
+    "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Degiskenler\\Degiskenler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yilma\\OneDrive\\Masaüstü\\udemy\\aracgerec\\Degiskenler\\Degiskenler.csproj",
+        "projectUniqueName": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Degiskenler\\Degiskenler.csproj",
         "projectName": "Degiskenler",
-        "projectPath": "C:\\Users\\yilma\\OneDrive\\Masaüstü\\udemy\\aracgerec\\Degiskenler\\Degiskenler.csproj",
+        "projectPath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Degiskenler\\Degiskenler.csproj",
         "packagesPath": "C:\\Users\\yilma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yilma\\OneDrive\\Masaüstü\\udemy\\aracgerec\\Degiskenler\\obj\\",
+        "outputPath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Degiskenler\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
           "C:\\Users\\yilma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,6 +55,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.2, 7.0.2]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.2, 7.0.2]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.2, 7.0.2]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.2, 7.0.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -58,7 +81,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.2.23157.25\\RuntimeIdentifierGraph.json"
         }
       }
     }

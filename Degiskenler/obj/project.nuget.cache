@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4Ve9PxyeBLw2JVNiRJvClJUcBoPWzVemwWeY/e2ysDKrfuthtejWmQe4G3DmVNNk5A46mbvkw/9C7tpSSLUB8A==",
+  "dgSpecHash": "sebIyVHiJevyfl1/5Fxw7UJZYWUgyRnXuR9vovwmNzq3WrKK03p9wZj9/1JpWc9aCNbjhrk1qzd29ntGvadezA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yilma\\OneDrive\\Masaüstü\\udemy\\aracgerec\\Degiskenler\\Degiskenler.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Degiskenler\\Degiskenler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.2\\microsoft.netcore.app.host.win-x64.7.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

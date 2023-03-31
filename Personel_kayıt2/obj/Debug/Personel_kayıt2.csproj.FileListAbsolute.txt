@@ -10,3 +10,6 @@ C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\o
 C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.exe
 C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.pdb
 C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.frmistatistik.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.FrmGrafikler.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.Kullanıcıgris.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Personel_kayıt2\obj\Debug\Personel_kayıt2.Form2.resources

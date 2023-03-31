@@ -21,5 +21,10 @@ namespace _2.proje
         {
 
         }
+
+        private void maskedTextBox1_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
+        }
     }
 }

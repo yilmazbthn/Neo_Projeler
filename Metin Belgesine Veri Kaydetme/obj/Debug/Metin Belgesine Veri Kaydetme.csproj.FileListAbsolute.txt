@@ -1,0 +1,11 @@
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesine Veri Kaydetme\bin\Debug\Metin Belgesine Veri Kaydetme.exe.config
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesine Veri Kaydetme\bin\Debug\Metin Belgesine Veri Kaydetme.exe
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesine Veri Kaydetme\bin\Debug\Metin Belgesine Veri Kaydetme.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesine Veri Kaydetme\obj\Debug\Metin Belgesine Veri Kaydetme.csproj.AssemblyReference.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesine Veri Kaydetme\obj\Debug\Metin Belgesine Veri Kaydetme.csproj.SuggestedBindingRedirects.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesine Veri Kaydetme\obj\Debug\Metin_Belgesine_Veri_Kaydetme.Form1.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesine Veri Kaydetme\obj\Debug\Metin_Belgesine_Veri_Kaydetme.Properties.Resources.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesine Veri Kaydetme\obj\Debug\Metin Belgesine Veri Kaydetme.csproj.GenerateResource.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesine Veri Kaydetme\obj\Debug\Metin Belgesine Veri Kaydetme.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesine Veri Kaydetme\obj\Debug\Metin Belgesine Veri Kaydetme.exe
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesine Veri Kaydetme\obj\Debug\Metin Belgesine Veri Kaydetme.pdb

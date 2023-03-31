@@ -8,19 +8,24 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yilma\\.nuget\\packages\\": {}
+    "C:\\Users\\yilma\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Sinema satış\\Sinema satış.csproj",
+      "projectUniqueName": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Sinema satış\\Sinema satış.csproj",
       "projectName": "Sinema satış",
-      "projectPath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Sinema satış\\Sinema satış.csproj",
+      "projectPath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Sinema satış\\Sinema satış.csproj",
       "packagesPath": "C:\\Users\\yilma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Sinema satış\\obj\\",
+      "outputPath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Sinema satış\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+      ],
       "configFilePaths": [
         "C:\\Users\\yilma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -82,7 +88,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.2.23157.25\\RuntimeIdentifierGraph.json"
       }
     }
   }

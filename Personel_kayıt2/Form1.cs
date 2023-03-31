@@ -150,5 +150,17 @@ namespace Personel_kayıt2
             frmistatistik fr=new frmistatistik();
             fr.Show();
         }
+
+        private void grafikler_Click(object sender, EventArgs e)
+        {
+            FrmGrafikler frg=new FrmGrafikler();
+            frg.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Kullanıcıgris frgg=new Kullanıcıgris();
+            frgg.Show();
+        }
     }
 }

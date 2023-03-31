@@ -110,6 +110,7 @@
             maskedTextBox1.Size = new Size(146, 28);
             maskedTextBox1.TabIndex = 2;
             maskedTextBox1.ValidatingType = typeof(int);
+            maskedTextBox1.MaskInputRejected += maskedTextBox1_MaskInputRejected;
             // 
             // label2
             // 

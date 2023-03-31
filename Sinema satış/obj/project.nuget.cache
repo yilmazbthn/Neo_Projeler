@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "90AgE2nGZSsIyMLKJbr+xrLYqVGbwcmf4jkvc1V25F4/7jqtvviMozfXLavdfANTpgdc2IOWxuhTm1qS4WInyA==",
+  "dgSpecHash": "RbHXtbAT78eRunMJsFMT8sY13A3uk1VzU75wOZHOENniRHYjSGpSwHJKDScJ2JHuALgBHUOt1X87hDKCyzYq4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Sinema satış\\Sinema satış.csproj",
+  "projectFilePath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Sinema satış\\Sinema satış.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yilma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
     "C:\\Users\\yilma\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",

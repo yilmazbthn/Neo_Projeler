@@ -63,9 +63,59 @@ namespace Personel_kayıt2.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap _5172658 {
+            get {
+                object obj = ResourceManager.GetObject("5172658", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap Dikdörtgen_1 {
+            get {
+                object obj = ResourceManager.GetObject("Dikdörtgen 1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap pxfuel {
             get {
                 object obj = ResourceManager.GetObject("pxfuel", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap pxfuel1 {
+            get {
+                object obj = ResourceManager.GetObject("pxfuel1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap sad {
+            get {
+                object obj = ResourceManager.GetObject("sad", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap welcome_home_welcome_home_hd_wallpaper_preview {
+            get {
+                object obj = ResourceManager.GetObject("welcome-home-welcome-home-hd-wallpaper-preview", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

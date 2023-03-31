@@ -1,0 +1,11 @@
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesi Oluşturma\bin\Debug\Metin Belgesi Oluşturma.exe.config
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesi Oluşturma\bin\Debug\Metin Belgesi Oluşturma.exe
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesi Oluşturma\bin\Debug\Metin Belgesi Oluşturma.pdb
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesi Oluşturma\obj\Debug\Metin Belgesi Oluşturma.csproj.AssemblyReference.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesi Oluşturma\obj\Debug\Metin Belgesi Oluşturma.csproj.SuggestedBindingRedirects.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesi Oluşturma\obj\Debug\Metin_Belgesi_Oluşturma.Form1.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesi Oluşturma\obj\Debug\Metin_Belgesi_Oluşturma.Properties.Resources.resources
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesi Oluşturma\obj\Debug\Metin Belgesi Oluşturma.csproj.GenerateResource.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesi Oluşturma\obj\Debug\Metin Belgesi Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesi Oluşturma\obj\Debug\Metin Belgesi Oluşturma.exe
+C:\Users\yilma\Desktop\Yazılım\udemy\aracgerec\Neo_Projeler\Metin Belgesi Oluşturma\obj\Debug\Metin Belgesi Oluşturma.pdb

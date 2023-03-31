@@ -67,6 +67,7 @@
             this.personelVeriTabaniDataSet = new Personel_kayıt2.PersonelVeriTabaniDataSet();
             this.personel_tblTableAdapter = new Personel_kayıt2.PersonelVeriTabaniDataSetTableAdapters.Personel_tblTableAdapter();
             this.label1 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -375,6 +376,7 @@
             this.grafikler.TabIndex = 6;
             this.grafikler.Text = "GRAFİKLER";
             this.grafikler.UseVisualStyleBackColor = true;
+            this.grafikler.Click += new System.EventHandler(this.grafikler_Click);
             // 
             // istatistik
             // 
@@ -548,12 +550,23 @@
             this.label1.Visible = false;
             this.label1.TextChanged += new System.EventHandler(this.label1_TextChanged);
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(677, 85);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 5;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(800, 616);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
@@ -613,6 +626,7 @@
         private System.Windows.Forms.DataGridViewCheckBoxColumn perdurumDataGridViewCheckBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn permeslekDataGridViewTextBoxColumn;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button1;
     }
 }
 

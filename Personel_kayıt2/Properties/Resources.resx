@@ -121,4 +121,19 @@
   <data name="pxfuel" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pxfuel.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="pxfuel1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pxfuel1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dikdörtgen 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dikdörtgen 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5172658" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5172658.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="welcome-home-welcome-home-hd-wallpaper-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\welcome-home-welcome-home-hd-wallpaper-preview.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sad" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sad.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

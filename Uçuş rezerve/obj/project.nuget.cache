@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "g+Mcn4g40kmCU4L2ioWe5Q5+gbXROZ9fAaugNsMl3SqpLMC3n3nQoJCCbYqx41wZK8Zj1C809K13gk/htjXeeg==",
+  "dgSpecHash": "lqB9ClDa2h4k0HrUrY+F43x5ENbQOBHKd+g+HY5LdN2Tz5651RKsf6yh/Z448T/DAgLtitC28tU48QthZiFBmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yilma\\OneDrive\\Masaüstü\\udemy\\aracgerec\\Uçuş rezerve\\Uçuş rezerve.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\yilma\\Desktop\\Yazılım\\udemy\\aracgerec\\Neo_Projeler\\Uçuş rezerve\\Uçuş rezerve.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\yilma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.2\\microsoft.netcore.app.host.win-x64.7.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
